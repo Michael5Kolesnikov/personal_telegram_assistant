@@ -1,2 +1,2 @@
-# personal_telegram_assistant
+# Personal_telegram_assistant
 This personal telegram assistant is for time management
